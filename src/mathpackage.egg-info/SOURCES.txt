@@ -1,0 +1,7 @@
+README.md
+setup.py
+src/mathpackage.py
+src/mathpackage.egg-info/PKG-INFO
+src/mathpackage.egg-info/SOURCES.txt
+src/mathpackage.egg-info/dependency_links.txt
+src/mathpackage.egg-info/top_level.txt
